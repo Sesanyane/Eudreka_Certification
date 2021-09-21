@@ -1,0 +1,27 @@
+{
+  "name": "assignment-m02",
+  "version": "1.0.0",
+  "description": "Edureka NodeJS Module02 Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fs",
+    "Yargs",
+    "Express",
+    "pm2",
+    "nginx"
+  ],
+  "author": "Leano Bryan Sesanyane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nginx-conf": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
